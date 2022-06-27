@@ -1,18 +1,21 @@
 
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/PedroTavolaro/b484c57b9ee89ccdcb3e06d0c2c5f18c/raw/c46e94a8a18dc1d6695105046ed57863bd5a4059/githubcard.svg"/>
+<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/PedroTavolaro/b484c57b9ee89ccdcb3e06d0c2c5f18c/raw/c46e94a8a18dc1d6695105046ed57863bd5a4059/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px" height="45px">, I'm Pedro Tavolaro</h1>
 
 
 
 - 🔥 Full-stack software developer building the future. 
-
+<br><br>
 - 👨‍💻 All of my projects are available at [pedrotavolaro.com](https://www.pedrotavolaro.com)
-
+<br><br>
 - ▶️ I regularly post videos on [youtube.com/channel/UCCz2l75InTa0T6JrIrbJPyg](https://youtube.com/channel/UCCz2l75InTa0T6JrIrbJPyg)
-
+<br><br>
 - 💬 **contact me in case any doubt**
 
 <br><br>
+<br><br>
+<br><br>
+
 
 
 ## 🛠 &nbsp;Tech Stack
