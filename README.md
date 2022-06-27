@@ -1,6 +1,6 @@
 
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/PedroTavolaro/b484c57b9ee89ccdcb3e06d0c2c5f18c/raw/c46e94a8a18dc1d6695105046ed57863bd5a4059/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Tavolaro</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5px" height="45px">, I'm Pedro Tavolaro</h1>
 
 
 
